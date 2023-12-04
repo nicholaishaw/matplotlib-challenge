@@ -34,7 +34,7 @@ In order to examine which drug is more effective, We first used pyplot to create
 **Figure 4.** *Bar chart illustrating the average mouse survival in each drug regimen.*
 
 ### Boxplot Analyses
-Using a box plot analysis with matplotlib, We acquired the tumor volume (mm3) distribution of our primary drugs of interest: Capomulin, Ramicane, Infubinol, and Ceftamin. We also obtained any potential outliers and marked them on the graph.
+Using a box plot analysis with matplotlib, We acquired the tumor volume (mm3) distribution of our primary drugs of interest: Capomulin, Ramicane, Infubinol, and Ceftamin. We also used a for loop statement to identify any potential outliers and marked them on the graph.
 
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/f0d588e8-9f7b-46e7-8b3d-4b9b0844972e)
 
@@ -43,6 +43,12 @@ Using a box plot analysis with matplotlib, We acquired the tumor volume (mm3) di
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/ddd53236-25f7-4afa-9cf5-e1f35571f9b0)
 
 **Figure 6.** *Box plot that shows the distrubution of the tumor volume for each treatment group and any outliers.*
+
+### Linear Regression
+Finally, 
+
+![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/ea80beb9-f07b-4c70-9c65-bf68c4aea704)
+
 
 
 ## Final Analysis
