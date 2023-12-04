@@ -10,12 +10,14 @@ The executive team has tasked me with generating all of the tables and figures n
 ## Analysis Using Matplotlib and Jupyter Notebook
 ### Dataframe Merging
 Using python, we merged the two csv files into one dataframe for ease of analysis.
+
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/237b1258-e790-4978-96f5-b8f63676b1d6)
 
 **Figure 1.** *Dataframe importing and merging.*
 
 ### Summary Statistics
 Before any exploratory analyses, we obtained descriptive statistics of tumor volumes for each drug regimen using the aggergate function. In addition, we generated a pie chart showing the sex distribution of the mice using Pandas.
+
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/deb7577a-b860-4f70-ab91-7690b7d2f378)
 
 **Figure 2.** *Descriptive statistics for tumor volume size for each drug regimen.*
@@ -25,13 +27,15 @@ Before any exploratory analyses, we obtained descriptive statistics of tumor vol
 **Figure 3.** *Bar chart of the count of mouse timepoints for each drug regimen.*
 
 ### Bar Plot of Timepoints for Each Mouse
-In order to examine which drug is more effective, We first used pyplot to create a bar chart to show the average mouse lifespan for each drug regimen 
+In order to examine which drug is more effective, We first used pyplot to create a bar chart to show the average mouse lifespan for each drug regimen
+
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/92ab25a5-3e7c-44c5-8863-53d3442649cc)
 
 **Figure 4.** *Bar chart illustrating the average mouse survival in each drug regimen.*
 
 ### Boxplot Analyses
 Using a box plot analysis with matplotlib, We acquired the tumor volume (mm3) distribution of our primary drugs of interest: Capomulin, Ramicane, Infubinol, and Ceftamin. We also obtained any potential outliers and marked them on the graph.
+
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/f0d588e8-9f7b-46e7-8b3d-4b9b0844972e)
 
 **Figure 5.** *Python script to identify outliers.*
