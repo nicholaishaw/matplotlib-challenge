@@ -45,9 +45,15 @@ Using a box plot analysis with matplotlib, We acquired the tumor volume (mm3) di
 **Figure 6.** *Box plot that shows the distrubution of the tumor volume for each treatment group and any outliers.*
 ___
 ### Linear Regression
-Finally, 
+Finally, using a linear regression, we investigated the association between tumor volume (mm3) and mouse weight for mice given Capomulin. The linear regression demonstrated a significant positive association between tumor size and weight (*p* = 1.322e-07, *r* = 0.84)
 
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/ea80beb9-f07b-4c70-9c65-bf68c4aea704)
+
+**Figure 7.** *Linear regression of tumor volume and mouse weight*
+
+![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/08ab0d23-ca3f-41b3-8b5c-53a9eb23c792)
+
+**Figure 8.** *Linear regression significance values*
 
 
 
