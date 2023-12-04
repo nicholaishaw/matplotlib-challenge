@@ -9,7 +9,7 @@ The executive team has tasked me with generating all of the tables and figures n
 
 ## Analysis Using Matplotlib and Jupyter Notebook
 ### Dataframe Merging
-Using python, we merged the two csv files into one dataframe for ease of analysis.
+The study data was contained in two csv files. Using python, we merged the csv files into one dataframe for ease of analysis.
 
 ![image](https://github.com/nicholaishaw/matplotlib-challenge/assets/135463220/237b1258-e790-4978-96f5-b8f63676b1d6)
 
